@@ -38,4 +38,4 @@ function retweet() {
   
 }
 
-setInterval(retweet, 2 * 1000);
+setInterval(retweet, 42 * 1000);
